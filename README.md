@@ -1,5 +1,6 @@
 # ShootingStar
-项目资源及演示视频：链接：https://pan.baidu.com/s/11ah4fsvk14VsnH71FUmjCA 提取码：9en6
+项目资源及演示视频：链接：https://pan.baidu.com/s/1laoKw1uTHsTvFJNWHIAb1Q 
+提取码：zzfn
 # 项目说明
 此项目为一个横版射击游戏，项目结构包括UI系统、角色系统、战斗系统、能量系统、战利品系统、积分系统、关卡系统、数据保存系统，代码编写使用了对象池、单例模式等设计模式、规则
 ## UI系统
